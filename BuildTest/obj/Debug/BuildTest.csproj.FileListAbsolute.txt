@@ -1,0 +1,13 @@
+C:\Users\andeb093\Desktop\test\BuildTest\bin\Debug\BuildTest.exe.config
+C:\Users\andeb093\Desktop\test\BuildTest\bin\Debug\BuildTest.exe
+C:\Users\andeb093\Desktop\test\BuildTest\bin\Debug\BuildTest.pdb
+C:\Users\andeb093\Desktop\test\BuildTest\obj\Debug\BuildTest.csprojResolveAssemblyReference.cache
+C:\Users\andeb093\Desktop\test\BuildTest\obj\Debug\MainWindow.baml
+C:\Users\andeb093\Desktop\test\BuildTest\obj\Debug\MainWindow.g.cs
+C:\Users\andeb093\Desktop\test\BuildTest\obj\Debug\App.g.cs
+C:\Users\andeb093\Desktop\test\BuildTest\obj\Debug\BuildTest_MarkupCompile.cache
+C:\Users\andeb093\Desktop\test\BuildTest\obj\Debug\BuildTest.g.resources
+C:\Users\andeb093\Desktop\test\BuildTest\obj\Debug\BuildTest.Properties.Resources.resources
+C:\Users\andeb093\Desktop\test\BuildTest\obj\Debug\BuildTest.csproj.GenerateResource.Cache
+C:\Users\andeb093\Desktop\test\BuildTest\obj\Debug\BuildTest.exe
+C:\Users\andeb093\Desktop\test\BuildTest\obj\Debug\BuildTest.pdb

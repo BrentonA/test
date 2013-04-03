@@ -3,6 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <TextBlock HorizontalAlignment="Left" Margin="160,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="189"><Run Text="What's this???"/><LineBreak/><Run/></TextBlock>
+
     </Grid>
 </Window>
